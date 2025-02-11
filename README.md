@@ -8,6 +8,8 @@ This repository demonstrates how to build this **Streamlit app** that uses [Visi
 3. **Automatically remove the background** and **enhance** the object (brightness, contrast, slight sharpening).
 4. **Select or generate** new background images.
 5. **Composite** the foreground onto each background, adding a **synthetic shadow** for a polished, natural look.
+![](image.png)
+
 
 The result is an easy-to-use interactive app that helps you create professional product shots or general photo compositing without extensive manual editing. VisionAgent’s specialized segmentation/inpainting tasks handle the visuals, while Streamlit provides the front-end experience.
 
